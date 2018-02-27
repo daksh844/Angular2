@@ -1,2 +1,1 @@
-# Angular2
-Angular 2 test project
+Test Angular2 project
